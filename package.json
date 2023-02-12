@@ -1,0 +1,24 @@
+{
+  "name": "2site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeeeeel/2Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeeeeel/2Site/issues"
+  },
+  "homepage": "https://github.com/reeeeeel/2Site#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  }
+}
